@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #6a6262;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 150px;
+    color: black;
+    font-size: 42px;
+}
+
+#container {
+    text-align: center;
+    overflow: hidden;
+}
+
+.input {
+    display: inline-block;
+    padding: 30px;
+}
+
+.same {
+    padding: 14px;
+    width: 222px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+label {
+    font-size: 21px;
+    display: inline-block;
+    padding-bottom: 10px;
+}
